@@ -6,3 +6,4 @@
 # Allow for network traffic audits
 DOMAIN,mask-api.icloud.com
 DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,gateway.icloud.com
