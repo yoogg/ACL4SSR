@@ -1,0 +1,8 @@
+# iCloud Private Relay
+# https://raw.githubusercontent.com/VirgilClyne/iRingo/main/RuleSet/Private_Relay.Configs.yaml
+# https://developer.apple.com/cn/support/prepare-your-network-for-icloud-private-relay/
+# https://mask-api.icloud.com/egress-ip-ranges.csv
+
+# Allow for network traffic audits
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-api.fe.apple-dns.net
