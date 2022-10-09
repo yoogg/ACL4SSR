@@ -4,6 +4,6 @@
 # https://mask-api.icloud.com/egress-ip-ranges.csv
 
 # Allow for network traffic audits
-DOMAIN,mask-api.icloud.com
-DOMAIN,mask-api.fe.apple-dns.net
-DOMAIN,gateway.icloud.com
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
+DOMAIN-SUFFIX,gateway.icloud.com
