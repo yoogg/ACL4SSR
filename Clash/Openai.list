@@ -3,5 +3,4 @@
 DOMAIN,chat.openai.com
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaidev.ghost.io
-DOMAIN-SUFFIX,openai
+DOMAIN-KEYWORD,openai
