@@ -1,0 +1,4 @@
+# openai
+# openai chatgpt代理规则
+DOMAIN,chat.openai.com
+DOMAIN-SUFFIX,openai.com
