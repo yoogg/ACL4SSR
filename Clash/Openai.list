@@ -1,4 +1,7 @@
 # openai
 # openai chatgpt代理规则
 DOMAIN,chat.openai.com
+DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaidev.ghost.io
+DOMAIN-SUFFIX,openai
