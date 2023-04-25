@@ -1,0 +1,3 @@
+# cloudflare warp
+DOMAIN-SUFFIX,cloudflareportal.com
+DOMAIN-SUFFIX,api.cloudflareclient.com
