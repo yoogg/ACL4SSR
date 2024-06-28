@@ -5,5 +5,9 @@
 
 # Allow for network traffic audits
 DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
-DOMAIN-SUFFIX,gateway.icloud.com
+# Siri
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,*.smoot.apple.com
